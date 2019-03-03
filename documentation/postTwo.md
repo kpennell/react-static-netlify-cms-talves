@@ -1,15 +1,14 @@
 ---
-title: "Buttons Component"
-slug: "button-rmwc"
+title: Buttons Component
+date: '2019-03-13 12:00am'
 ---
-
 # Buttons
 
 <div><button class="mdc-ripple-surface mdc-button mdc-ripple-upgraded">Default</button><button class="mdc-ripple-surface mdc-button mdc-button--raised mdc-ripple-upgraded">Raised</button><button class="mdc-ripple-surface mdc-button mdc-button--dense mdc-ripple-upgraded">Dense</button><button class="mdc-ripple-surface mdc-button mdc-button--compact mdc-ripple-upgraded">Compact</button><button class="mdc-ripple-surface mdc-button mdc-button--unelevated mdc-ripple-upgraded">Unelevated</button><button class="mdc-ripple-surface mdc-button mdc-button--stroked mdc-ripple-upgraded">Stroked</button><button class="mdc-ripple-surface mdc-theme--secondary-bg mdc-theme--text-primary-on-secondary mdc-button mdc-button--raised mdc-ripple-upgraded" style="margin: 5px">With Theme</button></div>
 
 ```html
-<Button>Default</Button>
-<Button raised>Raised</Button>
+<Button>Dwwqwqwqqwefault</Button>
+<Button raised>Raiqqwqwqwqwqwqsed</Button>
 <Button dense>Dense</Button>
 <Button compact>Compact</Button>
 <Button unelevated>Unelevated</Button>

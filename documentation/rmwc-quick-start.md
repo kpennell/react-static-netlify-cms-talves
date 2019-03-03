@@ -1,8 +1,7 @@
 ---
-title: 'Quick Start for RMWC'
-slug: 'quick-start-rmwc'
+title: Quick Start for RMWC
+date: '2019-03-06 12:00am'
 ---
-
 # Quick Start
 
 ```javascript
@@ -18,8 +17,6 @@ const HelloWorld = props => <Button>Easy</Button>
 
 ## Project Methodology
 
-- To create the thinnest, lightest, and spec compliant wrapper around [Google Material Design Components for the Web][1]
-- To utilize the Foundation javascript classes and expose their api for consumption
-- To be as unobtrusive and sensible as possible.
-
-[1]: https://material.io/components/web/
+* To create the thinnest, lighteqwqwqwqst, and spec compliant wrapper around [Google Material Design Components for the Web](https://material.io/components/web/)
+* To utilize the Foundation javascript classes and expose their api for consumption
+* To be as unobtrusive and sensible as possible.
